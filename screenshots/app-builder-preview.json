@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Guincho Auto Socorro Rocha · Guincho 24h em João Pinheiro",
+      "hasCanvas": false,
+      "bodyTextLen": 1822,
+      "bodyTextHash": "b7750c6572df657273e0193d3747c1185892178089ce4fb305f37f9f42e0c808",
+      "bodyTextPrefix": "AUTO SOCORRO ROCHA GUINCHO 24 HORAS (38) 99842-4385 LIGAR WHATSA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Guincho Auto Socorro Rocha · Guincho 24h em João Pinheiro",
+      "hasCanvas": false,
+      "bodyTextLen": 1806,
+      "bodyTextHash": "c33dee5b6d60ea0131b9b4e44974ddd35e38edd56aa909931f3dc74a2cb303b6",
+      "bodyTextPrefix": "AUTO SOCORRO ROCHA GUINCHO 24 HORAS ATENDIMENTO 24 HORAS GUINCHO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
